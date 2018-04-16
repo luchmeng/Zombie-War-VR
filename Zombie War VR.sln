@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie War VR.Plugins", "Zombie War VR.Plugins.csproj", "{AC9D5404-A91F-4364-7939-63E683506761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie War VR", "Zombie War VR.csproj", "{56689880-F506-23AB-72E2-3D45C983AA05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie War VR.Editor.Plugins", "Zombie War VR.Editor.Plugins.csproj", "{809FD638-1E01-002B-883D-921BD2C00D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie War VR.Editor", "Zombie War VR.Editor.csproj", "{669F37DB-13B7-6FDE-66BB-2B01F67F3F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9D5404-A91F-4364-7939-63E683506761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9D5404-A91F-4364-7939-63E683506761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9D5404-A91F-4364-7939-63E683506761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9D5404-A91F-4364-7939-63E683506761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56689880-F506-23AB-72E2-3D45C983AA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56689880-F506-23AB-72E2-3D45C983AA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56689880-F506-23AB-72E2-3D45C983AA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56689880-F506-23AB-72E2-3D45C983AA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{809FD638-1E01-002B-883D-921BD2C00D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809FD638-1E01-002B-883D-921BD2C00D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809FD638-1E01-002B-883D-921BD2C00D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809FD638-1E01-002B-883D-921BD2C00D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669F37DB-13B7-6FDE-66BB-2B01F67F3F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669F37DB-13B7-6FDE-66BB-2B01F67F3F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669F37DB-13B7-6FDE-66BB-2B01F67F3F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669F37DB-13B7-6FDE-66BB-2B01F67F3F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
